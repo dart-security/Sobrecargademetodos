@@ -1,4 +1,4 @@
-# Sobrecargademetodos
+# Sobrecarga de metodos
 En este programa se muestra la sobrecarga de métodos en Java
 La sobrecarga de métodos es la creación de varios métodos con el mismo nombre pero con diferente lista de tipos de parámetros. Java utiliza el número y tipo de parámetros para seleccionar cuál definición de método ejecutar. 
 
